@@ -1,4 +1,4 @@
-# NIP-86 · Relay Management API on LiberNet
+# NIP-86 (Relay Management API) on LiberNet
 
 > Relay Management API, as used by the **LiberNet** apps.
 
